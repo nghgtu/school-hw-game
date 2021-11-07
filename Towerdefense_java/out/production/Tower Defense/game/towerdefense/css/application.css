@@ -1,0 +1,6 @@
+.cell-highlight {
+    -fx-background-color:derive(dodgerblue,0.9);
+}
+.cell-hover {
+    -fx-border-color:gold;
+}
